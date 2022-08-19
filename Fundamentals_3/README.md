@@ -1,5 +1,5 @@
-# Odin_Project_Assignments
-Solution to assignments
+# Assignments Instruction
+
 Let’s write some functions! Write these in the script tag of a skeleton HTML file. If you’ve forgotten how to set it up, review the instructions from Fundamentals Part 1.
 
 For now, just write each function and test the output with console.log.
